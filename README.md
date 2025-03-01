@@ -1,5 +1,5 @@
 # MY_Projects_Venkat
-Projects: In these Projects, I used Aws Cloud and DevOps tools like
+Projects: In these Projects, I am used Aws Cloud and DevOps tools like
 # Linux
 # Git & GitHub
 # Jenkins
