@@ -1,0 +1,9 @@
+==>Overall GenAILakes Projects, I was Done
+1.Complete CI/CD DevOps Project on Nodejs Application
+2.Multiple Databases in a Single EC2 Virtual Machine
+3.Hybrid-Multi-Tenant Project
+4.Multiple database per tenant Project
+5.GitHub Organization
+6.GCP_IOT_Core Service
+7.Big Query & Data Lakes in GCP
+8.Multi-tier Application Deployment in AWS_ECS Service
